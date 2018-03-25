@@ -2,6 +2,7 @@
 function overBtn(x) {
     x.style.backgroundColor = "white";
     x.style.color = "black";
+    x.innerText = "hello"
 }
 
 function outBtn(x) {
